@@ -18,7 +18,7 @@ setuptools.setup(
   ],
   python_requires='>=3.9',
   install_requires=[
-    'grpcio==1.51.1',
+    'grpcio==1.53.2',
     'grpcio-testing==1.51.1',
     'grpcio-tools==1.51.1',
     'nibabel==5.0.0',
